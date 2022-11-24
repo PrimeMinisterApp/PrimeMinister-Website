@@ -1,4 +1,4 @@
-**Privacy Policy**
+# Privacy Policy
 
 {DEV_NAME} built the Primeminister app as [open source/free/freemium/ad-supported/commercial] app. This SERVICE is provided by {DEV_NAME} at no cost and is intended for use as is.
 
