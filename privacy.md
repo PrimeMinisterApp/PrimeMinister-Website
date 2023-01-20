@@ -21,7 +21,7 @@ Link to the privacy policy of third-party service providers used by the app
 
 **Log Data**
 
-We do not log your Data.
+We do not log your Data. 
 
 **Cookies**
 
